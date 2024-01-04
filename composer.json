@@ -1,0 +1,20 @@
+{
+    "name": "ixiam/vendor-autoloader",
+    "description": "Adds the site's vendor autoloaders to composer",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Ixiam\\VendorAutoloader\\": "src/VendorAutoloader/"
+        },
+        "files": [
+          "src/RandomPassword/Password.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "iXiam",
+            "email": "info@ixiam.com"
+        }
+    ],
+    "require": {}
+}
