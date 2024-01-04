@@ -7,7 +7,7 @@
             "Ixiam\\VendorAutoloader\\": "src/VendorAutoloader/"
         },
         "files": [
-          "src/RandomPassword/Password.php"
+          "src/VendorAutoloader/SiteVendorAutoloader.php"
         ]
     },
     "authors": [
